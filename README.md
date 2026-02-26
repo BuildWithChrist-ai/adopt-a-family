@@ -1,8 +1,5 @@
-# adopt-a-family
-4-hour build event where teams create working AI solutions for Adopt-A-Family on March 7, 2026
-
 # adoptafamily
-Adopt A Family BuildWithChrist Event
+Adopt A Family BuildWithChrist Event - 4-hour build event where teams create working AI solutions for Adopt-A-Family on March 7, 2026
 
 ## Overview
 The Adopt A Family event is a collaborative effort to streamline and automate the process of matching families in need with sponsors during the holiday season. This initiative aims to reduce the manual workload for organizers and improve the efficiency of the adoption process.
